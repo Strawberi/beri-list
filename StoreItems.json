@@ -12672,6 +12672,96 @@
 		"category": "YP weapons",
 		"defname": "YP_SeoLi"
 	},
+	{
+		"abr": "antyparaponeraadditionalarmor",
+		"price": 3575,
+		"category": "Anty gear",
+		"defname": "AT_AP_AdditionalPower_D"
+	},
+	{
+		"abr": "antyparaponeraarmor",
+		"price": 5067,
+		"category": "Anty gear",
+		"defname": "AT_AP_Power_D"
+	},
+	{
+		"abr": "antyparaponerahelmet",
+		"price": 2975,
+		"category": "Anty Headgear",
+		"defname": "AT_AP_Power_Head_D"
+	},
+	{
+		"abr": "biglavishrawmeatball",
+		"price": 12,
+		"category": "Meals",
+		"defname": "RS_BigLavishRawMeatBall"
+	},
+	{
+		"abr": "bigsimplerawmeatball",
+		"price": 8,
+		"category": "Meals",
+		"defname": "RS_BigSimpleRawMeatBall"
+	},
+	{
+		"abr": "bionicrakklebellyscale",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "RS_BionicBellyscale"
+	},
+	{
+		"abr": "bionicrakkletail",
+		"price": 1792,
+		"category": "Bionic",
+		"defname": "RS_BionicTail"
+	},
+	{
+		"abr": "rakkle",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "Rakkle"
+	},
+	{
+		"abr": "rakklechestwrap",
+		"price": 39,
+		"category": "Rakkle Apparel",
+		"defname": "RS_ChestWrap"
+	},
+	{
+		"abr": "rakkleidolcostume",
+		"price": 350,
+		"category": "Rakkle Apparel",
+		"defname": "RS_IdolCostume"
+	},
+	{
+		"abr": "rakkleknitsweater",
+		"price": 400,
+		"category": "Rakkle Apparel",
+		"defname": "RS_KnitSweater"
+	},
+	{
+		"abr": "rakklemaidcostume",
+		"price": 331,
+		"category": "Rakkle Apparel",
+		"defname": "RS_MaidCostume"
+	},
+	{
+		"abr": "rakklemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rakkle"
+	},
+	{
+		"abr": "rakkleobedienceterminal",
+		"price": 107,
+		"category": "Bionic",
+		"defname": "RS_ObedienceTerminal"
+	},
+	{
+		"abr": "rakklesnakeskin",
+		"price": 8,
+		"category": "Manufactured",
+		"defname": "RS_SnakeSkin"
+	},
 	],
-	"total": 2123
+	"total": 2135
 }
